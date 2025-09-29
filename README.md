@@ -2,7 +2,7 @@
 
 A full-stack application that uses Natural Language Processing (NLP) to automatically summarize text documents using TextRank algorithm with TF-IDF vectorization and PageRank scoring.
 
-## 🚀 Features
+##  Features
 
 - **Intelligent Text Summarization**: Extracts the most important sentences from any text
 - **TextRank Algorithm**: Uses graph-based ranking similar to Google's PageRank
@@ -11,7 +11,7 @@ A full-stack application that uses Natural Language Processing (NLP) to automati
 - **Modern UI**: React + TypeScript frontend for a smooth user experience
 - **CORS Enabled**: Seamless communication between frontend and backend
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - **Python 3.x**
